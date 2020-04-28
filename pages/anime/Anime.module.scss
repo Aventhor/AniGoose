@@ -1,0 +1,13 @@
+.attributes {
+    display: flex;
+    padding: 0.5rem 0;
+    h5 {
+        padding: 0 1rem;
+        b {
+            color: #101010;
+        }
+    }
+    :first-child {
+        padding-left: 0;
+    }
+}
